@@ -87,5 +87,24 @@ The goal of this free API is to enrich the Free Fire community by offering acces
 ```
 
 
+## Free Fire Ban Check API:
+
+**API request example:*** 
+```http
+GET https://freefirebancheckapi.vercel.app/api/player_info/{player_id}
+```
+
+
+## Response Example:
+```json
+{
+  "ban_message": "The user is not banned.",
+  "ban_period": 0,
+  "nickname": "†PRINCE-LK",
+  "region": "SG",
+  "status": "success"
+}
+```
+
 API Made By PRINCE (PRINCE-MODZ),
 All Rights Reserved!
