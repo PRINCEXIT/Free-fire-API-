@@ -3,7 +3,7 @@
 ##  Account Information API
 API Route = https://princeffinfoapi.vercel.app/get_player_data/{uid}?key={key}
 
-**Endpoint:** `api/`
+**Endpoint:** `get_player_data`
 **1 month key:** `PRINCE-1-M-FREE`
 **Method:** `GET`  
 **Info:** `Contact prince3923 on discord, for a perm api key`
