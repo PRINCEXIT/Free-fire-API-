@@ -17,7 +17,7 @@ GET https://princeffinfoapi.vercel.app/get_player_data/{uid}?key={key}
 
 
 
-📚 **API Purpose
+📚 **API Purpose**
 
 The goal of this free API is to enrich the Free Fire community by offering access to account data that is not available through official channels. Since Garena Free Fire does not provide an official account information API, this custom solution serves as a valuable resource for players and developers seeking detailed account data.
 
